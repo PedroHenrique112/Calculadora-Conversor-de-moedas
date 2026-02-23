@@ -17,8 +17,5 @@ O layout se adapta perfeitamente a celulares, tablets e desktops.
 1. Clone o repositório
 2. Abra o `index.html` no navegador
 
-## 📸 Preview
-*(adicione um print da calculadora aqui)*
-
 ## 👨‍💻 Autor
 Desenvolvido por **Pedro henrique carvalho nunes teixeira**
